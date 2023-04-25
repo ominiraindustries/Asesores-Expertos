@@ -3,7 +3,7 @@
    Website:  h t T p : / /W w W .m e TAqUo T Es. Net
    E-mail : Su ppO rt @ M e Ta qUO TeS .n ET
 */
-#property copyright "Copyright © 2008, Gary White"
+#property copyright "Copyright Â© 2008, Gary White"
 #property link      "http://www.forex-ai.com"
 
 extern string ModeHelp = "A-Auto, F-Fixed Lot";
